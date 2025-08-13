@@ -1,0 +1,27 @@
+{
+  "timestamp": "2025-08-13T19:52:20.369Z",
+  "uptime": 52.586218531,
+  "stats": {
+    "startTime": 1755114688310,
+    "commandsExecuted": 0,
+    "messagesProcessed": 0,
+    "errorsHandled": 0,
+    "uptimeTarget": "10+ years",
+    "lastRestart": "2025-08-13T19:51:28.310Z",
+    "memoryUsageMB": 0,
+    "lastHealthCheck": "2025-08-13T19:51:28.310Z"
+  },
+  "reason": "SIGTERM",
+  "memoryUsage": {
+    "rss": 74956800,
+    "heapTotal": 18108416,
+    "heapUsed": 16520072,
+    "external": 3549035,
+    "arrayBuffers": 122547
+  },
+  "botInfo": {
+    "guilds": 4,
+    "users": 1,
+    "channels": 133
+  }
+}
